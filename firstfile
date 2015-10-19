@@ -2,9 +2,9 @@
 #include<conio.h>
 void main()
 {
-
+add();
 }
-add(int a,int b)
+void add(int a,int b)
 {
 int c=a+b;
 cout<<"Sum="<<c;
